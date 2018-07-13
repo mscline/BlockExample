@@ -14,6 +14,7 @@
 		AE91CC0020F7F938005039C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE91CBFE20F7F938005039C7 /* LaunchScreen.storyboard */; };
 		AE91CC0320F7F938005039C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AE91CC0220F7F938005039C7 /* main.m */; };
 		AE91CC0B20F7FE07005039C7 /* MyAlert.m in Sources */ = {isa = PBXBuildFile; fileRef = AE91CC0A20F7FE07005039C7 /* MyAlert.m */; };
+		AED9BC6120F90CEE003F8D6F /* PhotoPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = AED9BC5F20F90CEE003F8D6F /* PhotoPicker.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		AE91CC0220F7F938005039C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AE91CC0920F7FE07005039C7 /* MyAlert.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyAlert.h; sourceTree = "<group>"; };
 		AE91CC0A20F7FE07005039C7 /* MyAlert.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyAlert.m; sourceTree = "<group>"; };
+		AED9BC5F20F90CEE003F8D6F /* PhotoPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoPicker.m; sourceTree = "<group>"; };
+		AED9BC6020F90CEE003F8D6F /* PhotoPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoPicker.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				AE91CBF720F7F937005039C7 /* ViewController.m */,
 				AE91CC0920F7FE07005039C7 /* MyAlert.h */,
 				AE91CC0A20F7FE07005039C7 /* MyAlert.m */,
+				AED9BC6020F90CEE003F8D6F /* PhotoPicker.h */,
+				AED9BC5F20F90CEE003F8D6F /* PhotoPicker.m */,
 				AE91CBF920F7F937005039C7 /* Main.storyboard */,
 				AE91CBFC20F7F938005039C7 /* Assets.xcassets */,
 				AE91CBFE20F7F938005039C7 /* LaunchScreen.storyboard */,
@@ -147,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE91CBF820F7F937005039C7 /* ViewController.m in Sources */,
+				AED9BC6120F90CEE003F8D6F /* PhotoPicker.m in Sources */,
 				AE91CC0320F7F938005039C7 /* main.m in Sources */,
 				AE91CC0B20F7FE07005039C7 /* MyAlert.m in Sources */,
 				AE91CBF520F7F937005039C7 /* AppDelegate.m in Sources */,
